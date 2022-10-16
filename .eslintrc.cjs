@@ -9,7 +9,7 @@ module.exports = {
     ecmaVersion: 'latest',
   },
   rules: {
-    'prettier/prettier': ['error'],
+    'prettier/prettier': 'off',
     'arrow-body-style': 'off',
     'prefer-arrow-callback': 'off',
   },
